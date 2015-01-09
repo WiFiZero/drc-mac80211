@@ -1,0 +1,5 @@
+This is a patched copy of the mac80211 source from Linux kernel 3.17.7.
+
+For more information about the patch, see README.DRC.
+
+Odds are, unless you're doing libdrc work on Fedora 20, this is useless to you.
